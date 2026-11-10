@@ -5,7 +5,7 @@
 Application Windows par Opti & Co pour nettoyer, surveiller et dépanner votre PC, avec des explications claires même si vous n'y connaissez rien.
 
 > Aucun « boost FPS » magique : uniquement des réglages réels et vérifiables.
-> L'application ne fait pas d'optimisation poussée de Windows. Pour ça, il existe le service **Optimisation complète** d'Opti & Co.
+> L'application ne fait pas d'optimisation poussée de Windows.
 
 ## Télécharger
 
