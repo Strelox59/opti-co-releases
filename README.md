@@ -5,7 +5,7 @@
 Application Windows par Opti & Co pour nettoyer, surveiller et dépanner votre PC, avec des explications claires même si vous n'y connaissez rien.
 
 > Aucun « boost FPS » magique : uniquement des réglages réels et vérifiables.
-> L'application ne fait pas d'optimisation poussée de Windows.
+> L'application ne fait pas d'optimisation poussée de Windows. Pour ça, il existe le service **Optimisation complète** d'Opti & Co.
 
 ## Télécharger
 
@@ -26,6 +26,7 @@ C'est normal pour une nouvelle application. Cliquez sur **Informations compléme
 - État du PC et utilisation en direct
 - Espace des disques et alerte santé
 - Réparation, dépannage rapide et réglages Windows
+- Configuration du PC (matériel, écrans, réseau)
 - Tutos de base
 
 ## Version Pro (avec licence)
@@ -35,13 +36,13 @@ Tout ce qu'il y a dans la Version Lite, plus :
 - Check-up d'entretien complet avec rappels
 - Nettoyage avancé (navigateurs, launchers…)
 - Monitoring, températures et ventilateurs
-- Outils gaming et diagnostic des plantages expliqué simplement
-- Désinstallation complète des applications et gestion du démarrage
+- Outils gaming, compteur de FPS en jeu et diagnostic des plantages expliqué simplement
+- Désinstallation complète des applications, mises à jour des logiciels et gestion du démarrage
 - Gros fichiers, doublons et santé des disques (SMART)
-- Configuration, pilotes et rapport PDF
+- Pilotes et rapport PDF
 - Tous les tutos
 
-Licences au mois, sur 3 mois, à l'année ou à vie. Sans engagement et sans renouvellement automatique. Les mises à jour sont incluses quelle que soit la durée.
+Essai gratuit de 3 jours sur demande (un par PC). Licences au mois, sur 3 mois, à l'année ou à vie. Sans engagement et sans renouvellement automatique. Les mises à jour sont incluses quelle que soit la durée.
 
 ## Mises à jour
 
@@ -54,3 +55,4 @@ Rejoignez le [Discord Opti & Co](https://discord.gg/nFewSdFTZa) et ouvrez un tic
 ---
 
 © 2024-2026 Opti & Co. Tous droits réservés. Ce dépôt sert uniquement à distribuer l'application.
+
